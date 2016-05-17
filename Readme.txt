@@ -1,1 +1,0 @@
-Esse programa faz o básico
